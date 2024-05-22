@@ -4,4 +4,4 @@ A simple web application, that allows you to report and look up alien encounters
 
 Follow the detailed tutorial in the below link
 
-https://docs.catalyst.zoho.com/en/tutorials/alien-city/java/introduction/
+https://docs.catalyst.zoho.com/en/tutorials/alien-city/python/introduction/
